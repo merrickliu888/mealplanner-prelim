@@ -8,4 +8,7 @@ give personalized meal ideas.
 
 
 
+
+# Link to API
 Here is a [link to the API documentation](https://developer.edamam.com/food-database-api-docs).
+
